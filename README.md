@@ -16,3 +16,27 @@ The following steps can guide about the process involed in this challenge:
 - Verify the transactions in MetaMask wallet and Ganache sandox environment
 
 ---
+## Successful Compile 
+
+<img width="1440" alt="Screenshot 2024-05-16 at 10 00 08 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_21/assets/152752672/dc3f1658-399e-4709-ba0f-0b82fee2a1b5">
+
+<img width="1439" alt="Screenshot 2024-05-16 at 10 00 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_21/assets/152752672/e5ee7612-95e3-4bc5-a8b9-539de124c1c6">
+
+
+## Was able to connect to Meta Mask
+
+<img width="1433" alt="Screenshot 2024-05-16 at 10 05 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_21/assets/152752672/7af757f1-c182-4aae-840e-1205e71176a6">
+
+## Conclusion
+I did not have time to deploy the rest due to work conflict. Please grade for work I have done, thank you!
+
+# References: 
+
+### Tutor Meetings through FINTECH Bootcamp:
+- Gerrardo Espinoza
+- Saturday 5/8/24
+
+### Instructor:
+- Pablo Jordan
+- Monday (Office Hours) 5/8/24
+
