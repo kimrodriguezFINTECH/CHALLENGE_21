@@ -28,7 +28,7 @@ The following steps can guide about the process involed in this challenge:
 <img width="1433" alt="Screenshot 2024-05-16 at 10 05 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_21/assets/152752672/7af757f1-c182-4aae-840e-1205e71176a6">
 
 ## Conclusion
-I did not have time to deploy the rest due to work conflict. Please grade for work I have done, thank you!
+I did not have time to deploy the rest due to work conflict. However I was able to finish my code. Please grade for work I have done, thank you!
 
 # References: 
 
